@@ -1,0 +1,7 @@
+ensime generate
+compile
+tests
+test
+compile
+test
+submit augustinablair@gmail.com mYHkPmJfB3

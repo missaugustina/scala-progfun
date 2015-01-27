@@ -1,0 +1,17 @@
+ensime generate
+compile
+test
+compile
+test
+compile
+test
+compile
+test
+console
+compile
+test
+compile
+test
+submit augustinablair@gmail.com mYHkPmJfB3
+compile
+styleCheck
